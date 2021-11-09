@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DynamicProgramming/.idea/DynamicProgramming.iml" filepath="$PROJECT_DIR$/../DynamicProgramming/.idea/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Graph/.idea/Graph.iml" filepath="$PROJECT_DIR$/../Graph/.idea/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GreedyAlgorithms/.idea/GreedyAlgorithms.iml" filepath="$PROJECT_DIR$/../GreedyAlgorithms/.idea/GreedyAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Search.iml" filepath="$PROJECT_DIR$/.idea/Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sort/.idea/Sort.iml" filepath="$PROJECT_DIR$/../Sort/.idea/Sort.iml" />
+    </modules>
+  </component>
+</project>
